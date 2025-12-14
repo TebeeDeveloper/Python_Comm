@@ -7,7 +7,7 @@ Version: 1.0
 I. Vấn đề bản quyền
     [13/12/2025]. Mọi quyền được bảo lưu.
 	Bắt đầu từ ngày đính chính như trên, giấy phép có hiệu lực.
-	Tất cả trường hợp vi phạm đều phải bị xử lý nghiêm theo pháp luật Quốc tế và Luật Pháp Việt Nam.
+	Tất cả trường hợp vi phạm đều phải bị xử lý nghiêm theo pháp luật Quốc tế và luật pháp Việt Nam.
 
 -   Tác giả: Tebee_Sunaookami - Trần Trung Nghĩa.
 
@@ -32,9 +32,10 @@ I. Vấn đề bản quyền
 
 	+	Phân phối lại module.
 
-	+	Lạm dụng.
+	+	Lạm dụng. Sử dụng để tấn công mạng, phát tán nội dung độc hại
 
 	+	Tổ chức phản động/Vũ trang.
+	->	Vi phạm giấy phép, xử lý nghiêm theo luật pháp
 
 -	! Cảnh báo quan trọng !
 	+	Bất kỳ tổ chức/cá nhân nào có hành vi lạm dụng trái phép module này đều bị xử lý theo luật pháp Quốc tế và luật pháp Việt Nam về An toàn An ninh mạng. Tác giả không nhân nhượng bất kỳ tổ chúc/cá nhân vũ trang nào. Mọi ý đồ lạm dụng đều phải bị trừng trị theo luật pháp.
@@ -53,9 +54,9 @@ II.	Luật áp dụng
 -	Luật Quốc tế:
 		Trong phạm vi được pháp luật Việt Nam cho phép, các điều ước và quy tắc của Luật Pháp Quốc Tế về Sở Hữu Trí Tuệ (như Công ước Berne) sẽ được áp dụng bổ sung.
 
+------------------
 
-
-II. Giới thiệu Enigma cổ điển (nền tảng của module)
+III. Giới thiệu Enigma cổ điển (nền tảng của module)
 -   Enigma là máy mật mã của Đức Quốc Xã trong Thế chiến 2.
 
 -   Đây là cổ máy có tầm quan trọng nhất, về việc bảo vệ thông tin nội bộ.
@@ -72,7 +73,7 @@ II. Giới thiệu Enigma cổ điển (nền tảng của module)
 
 ------------------
 
-III. Giới thiệu Module
+IV. Giới thiệu Module
 -   Dựa trên nguyên lý Enigma cổ điển, với 1000 rotor làm tăng không gian khoá (space key) và độ phức tạp khi giải mã.
 
 -   Kiến trúc độc quyền:
@@ -88,7 +89,7 @@ III. Giới thiệu Module
 
 ------------------
 
-IV. Hướng dẫn sử dụng cơ bản
+V. Hướng dẫn sử dụng cơ bản
 
 1.	Hướng dẫn sử dụng mã hoá
 -	from enigma.machine import EnigmaMachine # Bắt buộc phải có
@@ -146,7 +147,7 @@ VI.	Phiên bản hiện hành và dự án tương lai
 
 -	enigma school learning
 
-VI.	Giới thiệu phiên bản tương lai
+VII.	Giới thiệu phiên bản tương lai
 1.	enigma 15 rotor V1.0.0
 	-	Phiên bản đơn giản hoá.
 2.	enigma 10 rotor V1.0.0
@@ -155,7 +156,7 @@ VI.	Giới thiệu phiên bản tương lai
 	-	Phiên bản cho phép sử dụng rộng rãi tại trường học trên cả nước Việt Nam.
 	-	Là dự án được ưu tiên tiến hành phát triển ra thị trường sớm nhất, đảm bảo giáo dục về mật mã học.
 ------------------
-VI. Liên hệ và Hợp tác
+VIII. Liên hệ và Hợp tác
 -   Gmail: tebeebmgo@gmail.com
 -	Link GitHub: https://github.com/TebeeDeveloper/TebeePythonProject
 
